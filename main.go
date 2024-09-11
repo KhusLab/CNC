@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/wilsdane/C2Dev24/c2"
+	""github.com/KhusLab/CNC/c2"
 )
 
 func main() {
